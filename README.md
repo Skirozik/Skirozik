@@ -56,8 +56,8 @@ I'm a computer science student and builder who ships **real products** — nativ
 
 ### 🚀 Projects
 
-- **[gsu-course-planner](https://github.com/Skirozik/gsu-course-planner)** &nbsp;`Python · Streamlit`
-  Multi-university course planner (Georgia State + Georgia Tech) that parses uploaded DegreeWorks PDFs and resolves eligibility through a **recursive prerequisite engine** handling nested AND/OR logic and minimum-grade thresholds. Uses the Anthropic Claude API to recommend balanced schedules, pulls live sections from the Ellucian Banner API, ranks professors via the RateMyProfessors GraphQL API, and exports to PDF / calendar (.ics) / text.
+- **[multischool-course-planner](https://github.com/Skirozik/multischool-course-planner)** &nbsp;`Python · Streamlit`
+  Multi-university course planner (currently Georgia State + Georgia Tech, with more schools on the way) that parses uploaded DegreeWorks PDFs and resolves eligibility through a **recursive prerequisite engine** handling nested AND/OR logic and minimum-grade thresholds. Uses the Anthropic Claude API to recommend balanced schedules, pulls live sections from the Ellucian Banner API, ranks professors via the RateMyProfessors GraphQL API, and exports to PDF / calendar (.ics) / text.
 
 - **[TeslaStream](https://github.com/Skirozik/TeslaStream)** &nbsp;`Swift · SwiftUI`
   Native iOS app that mirrors your iPhone screen to a Tesla's in-car browser over WiFi — no extra hardware. Screen capture with Apple's ReplayKit, live streaming via HaishinKit, and a StoreKit 2 subscription paywall.
