@@ -12,9 +12,7 @@
 
 ### 🧠 About
 
-I'm a computer science student and indie builder focused on **practical AI applications** — tools that live where people already are (iMessage, the browser, the terminal) and take friction *away* instead of adding it. Most of my projects start as a personal problem and turn into something shippable: study reminders that actually reach you, a course planner that reads your transcript, bots that watch the market while I sleep.
-
-Comfortable across the stack — Swift apps, TypeScript web apps, Python backends, and LLM integrations.
+I'm a developer and indie builder who ships **real products** — native iOS apps, full-stack web tools, developer utilities, and automation bots. I reach for AI when it genuinely makes something better, but the throughline isn't "AI" — it's taking an actual problem and turning it into something people can use. I've shipped an app to the App Store, and most of my side projects start as a personal itch.
 
 📫 **Open to SWE internships & interesting problems.**
 
