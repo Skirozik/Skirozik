@@ -12,14 +12,11 @@
 
 ### 🧠 About
 
-I'm a computer science student at Georgia State (GPA 3.5, graduating Dec 2027) and a builder who ships **real products** — native iOS apps, full-stack web tools, developer utilities, and automation bots. I reach for AI when it genuinely makes something better, but the throughline isn't "AI" — it's taking an actual problem and turning it into something people can use. I've shipped an app to the App Store, and most of my side projects start as a personal itch.
+I'm a computer science student and indie builder focused on **practical AI applications** — tools that live where people already are (iMessage, the browser, the terminal) and take friction *away* instead of adding it. Most of my projects start as a personal problem and turn into something shippable: study reminders that actually reach you, a course planner that reads your transcript, bots that watch the market while I sleep.
+
+Comfortable across the stack — Swift apps, TypeScript web apps, Python backends, and LLM integrations.
 
 📫 **Open to SWE internships & interesting problems.**
-
-### 💼 Experience
-
-**Software Engineer Intern — [Tire Spot Solutions](https://tirespotsolutions.com)** · Dec 2024 – Jul 2025
-Designed and shipped a full mobile app to the **App Store** for a local tire business — booking for towing, roadside assistance, and tire service, plus an e-commerce module for buying tires online. Contributed to a **~30% increase in company profits** through streamlined booking and expanded online sales.
 
 ### 🛠️ Tech
 
