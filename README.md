@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Zach 👋</h1>
 
 <p align="center">
-  CS @ Georgia State University · I build AI-powered tools that solve real problems
+  CS Major · I build AI-powered tools that solve real problems
 </p>
 
 <p align="center">
-  <em>ship &gt; perfect — I build the thing I actually need, then make it work for everyone else.</em>
+  <em>ship &gt; perfect | I build the thing I actually need, then make it work for everyone else.</em>
 </p>
 
 ---
