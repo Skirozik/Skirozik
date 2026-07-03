@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Zach 👋</h1>
+<h1 align="center">Hey, I'm Zach :)</h1>
 
 <p align="center">
   CS Major · I build software that solves real problems
@@ -10,13 +10,13 @@
 
 ---
 
-### 🧠 About
+###  About Me
 
 I'm a computer science student and builder who ships **real products** — native iOS apps, full-stack web tools, developer utilities, and automation bots. I reach for AI when it genuinely makes something better, but the throughline isn't "AI" — it's taking an actual problem and turning it into something people can use. I've shipped an app to the App Store, and most of my side projects start as a personal itch.
 
-📫 **Open to SWE internships & interesting problems.**
+📫 **Open to SWE internships**
 
-### 🛠️ Tech
+###  Tech Stack :P
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,7 +54,7 @@ I'm a computer science student and builder who ships **real products** — nativ
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 
-### 🚀 Projects
+###  Projects :3
 
 - **[multischool-course-planner](https://github.com/Skirozik/multischool-course-planner)** &nbsp;`Python · Streamlit`
   Multi-university course planner (currently Georgia State + Georgia Tech, with more schools on the way) that parses uploaded DegreeWorks PDFs and resolves eligibility through a **recursive prerequisite engine** handling nested AND/OR logic and minimum-grade thresholds. Uses the Anthropic Claude API to recommend balanced schedules, pulls live sections from the Ellucian Banner API, ranks professors via the RateMyProfessors GraphQL API, and exports to PDF / calendar (.ics) / text.
