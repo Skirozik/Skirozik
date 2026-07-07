@@ -12,7 +12,7 @@
 
 ###  About Me
 
-I'm a computer science student and builder who ships **real products** — native iOS apps, full-stack web tools, developer utilities, and automation bots. I reach for AI when it genuinely makes something better, but the throughline isn't "AI" — it's taking an actual problem and turning it into something people can use. I've shipped an app to the App Store, and most of my side projects start as a personal itch.
+I'm a computer science student and builder who ships **real products** native iOS apps, full-stack web tools, developer utilities, and automation bots. I reach for AI when it genuinely makes something better, but the throughline isn't "AI" it's taking an actual problem and turning it into something people can use. I've shipped an app to the App Store, and most of my side projects start as a personal itch.
 
 📫 **Open to SWE internships**
 
