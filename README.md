@@ -11,7 +11,7 @@
 
 cs student at georgia state. i ship real products, native ios apps, full-stack web tools and bots that run on their own, and most of them started as something i needed myself. i reach for ai when it makes a thing better, but what i care about is taking a real problem and turning it into something people use. every dot above is a real person using something i built.
 
-looking for a summer 2027 swe internship. [zachinyang.com](https://zachinyang.com) · [resume](https://zachinyang.com/resume.pdf) · zacharyinyan [at] gmail [dot] com
+📫 **open to summer 2027 swe internships** · [zachinyang.com](https://zachinyang.com) · [resume](https://zachinyang.com/resume.pdf) · zacharyinyan [at] gmail [dot] com
 
 **[nudge](https://github.com/Skirozik/nudge)** · [nudgebuddy.net](https://nudgebuddy.net) · 35 users\
 an ai assistant that lives in imessage. text it an assignment, it schedules the reminder and follows up. typescript, next.js, redis, bullmq, postgres, claude.
