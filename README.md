@@ -1,3 +1,7 @@
+<h1 align="center">Hey, I'm Zach :)</h1>
+
+<p align="center"><em>ship &gt; perfect | i build the thing i actually need, then make it work for everyone else.</em></p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://zachinyang.com/users-dark.svg">
@@ -5,7 +9,7 @@
   </picture>
 </p>
 
-cs student at georgia state. i build the things i want to use, then make them work for everyone else. every dot above is a real person using something i shipped.
+cs student at georgia state. i ship real products, native ios apps, full-stack web tools and bots that run on their own, and most of them started as something i needed myself. i reach for ai when it makes a thing better, but what i care about is taking a real problem and turning it into something people use. every dot above is a real person using something i built.
 
 looking for a summer 2027 swe internship. [zachinyang.com](https://zachinyang.com) · [resume](https://zachinyang.com/resume.pdf) · zacharyinyan [at] gmail [dot] com
 
